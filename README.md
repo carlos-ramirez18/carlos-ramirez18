@@ -5,6 +5,7 @@ Backend Developer | Java | Spring Boot
 Information Systems Engineering Student (UTN FRC)
 
 I build web applications and backend APIs.
+
 ---
 
 ## 🚀 Technologies & Tools
