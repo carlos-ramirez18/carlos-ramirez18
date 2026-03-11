@@ -1,11 +1,10 @@
 # Hi, I'm Carlos Ramirez 👋
 
-🎓 Information Systems Engineering Student (4th year) – UTN FRC
-💻 Backend Developer focused on Java and Spring Boot
-⚙️ Interested in backend systems, software architecture and databases
+Backend Developer | Java | Spring Boot
 
-I enjoy building practical systems that solve real-world problems, especially web applications and backend services.
+Information Systems Engineering Student (UTN FRC)
 
+I build web applications and backend APIs.
 ---
 
 ## 🚀 Technologies & Tools
